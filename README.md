@@ -1,6 +1,6 @@
 # Frontend-dev-searcher
 * Projeto criado na semana omnistack 10.
-* Ele contém também um aplicativo web que está salvo em outro repositório.
+* Esse projeto contém também um [aplicativo mobile](https://github.com/miqueiassggarcia/Mobile-dev-searcher) e o [backend](https://github.com/miqueiassggarcia/Backend-dev-searcher).
 
 
 ### Iniciar aplicação:
